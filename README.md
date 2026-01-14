@@ -2,10 +2,14 @@
   Hi, I'm Ganesh Nagare! 👋
 </h1>
 
-
+<p align="center">
+  <img src="WhatsApp Image 2026-01-13 at 10.53.20 PM.jpeg" alt="Ganesh Nagare"
+       width="150"
+       style="border-radius: 50%; border: 3px solid #0077B5;" />
+</p>
 
 <p align="center">
-  <b>🌟 Frontend Developer | 🐍 Python  | 💾 DBMS Learner | 💻 Passionate Coder</b>
+  <b>🌟 Frontend Developer | 🐍 Python Developer | 💾 DBMS Learner | 💻 Passionate Coder</b>
 </p>
 
 <p align="center">

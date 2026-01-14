@@ -2,13 +2,10 @@
   Hi, I'm Ganesh Nagare! 👋
 </h1>
 
-<p align="center">
-  <img src="profile.png" alt="Ganesh Nagare" width="150"
-       style="border-radius: 50%; border: 3px solid #0077B5;" />
-</p>
+
 
 <p align="center">
-  <b>🌟 Frontend Developer | 🐍 Python Developer | 💾 DBMS Learner | 💻 Passionate Coder</b>
+  <b>🌟 Frontend Developer | 🐍 Python  | 💾 DBMS Learner | 💻 Passionate Coder</b>
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
